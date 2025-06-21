@@ -1,0 +1,22 @@
+[
+  {
+    "home": "Georgia",
+    "away": "Alabama",
+    "model_spread": -3.4,
+    "market_spread": -6.5,
+    "edge": 3.1,
+    "confidence": 0.87,
+    "weather": "Rain, 12mph wind",
+    "pick": "Georgia +6.5"
+  },
+  {
+    "home": "Mizzou",
+    "away": "Florida",
+    "model_spread": 2.5,
+    "market_spread": 1.0,
+    "edge": 1.5,
+    "confidence": 0.71,
+    "weather": "Clear skies",
+    "pick": "Mizzou -1.0"
+  }
+]
